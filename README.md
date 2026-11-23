@@ -22,7 +22,9 @@ The main objective is to analyze customer feedback and answer key business quest
 ## 🛠️ Tool Purpose
 
 Python for Data analysis and processing
+
 Pandas Data cleaning, transformation, aggregation, and EDA
+
 Matplotlib for Data visualization
 
 ## ⚙️ Project Workflow
@@ -30,20 +32,31 @@ Matplotlib for Data visualization
 Data Extraction: Imported the raw Amazon reviews dataset using Pandas and inspected its structure, columns, data types, and missing values.
 
 Data Cleaning & ETL: 📁 Notebook: 01_data_cleaning.ipynb, Cleaned Dataset: amazon_reviews_clean.csv — Saved as the output of the cleaning process and used for further analysis.
+
 Handled missing values
+
 removed fully empty columns
+
 Converting date fields into appropriate datetime formats
+
 Cleaning and converting helpful review counts into numeric values
+
 checked for duplicates
  
 Exploratory Data Analysis (EDA): 📁 Notebook: 02_eda.ipynb
+
 Analyzed rating distribution
+
 brand and product performance 
+
 category distribution
+
 verified vs. non verified purchase ratings
+
 review content and length
    
 Data Visualization: 📁 Saved visualizations as PNG files
+
 Used Matplotlib to create three visualizations highlighting customer rating.
 
 # 📊 Sample Visuals
