@@ -21,43 +21,46 @@ The main objective is to analyze customer feedback and answer key business quest
 
 ## 🛠️ Tool Purpose
 
-Python for Data analysis and processing
+**Python** for Data analysis and processing
 
-Pandas Data cleaning, transformation, aggregation, and EDA
+**Pandas** for Data cleaning, transformation, aggregation, and EDA
 
-Matplotlib for Data visualization
+**Matplotlib** for Data visualization
 
 ## ⚙️ Project Workflow
 
 Data Extraction: Imported the raw Amazon reviews dataset using Pandas and inspected its structure, columns, data types, and missing values.
 
-Data Cleaning & ETL: 📁 Notebook: 01_data_cleaning.ipynb, Cleaned Dataset: amazon_reviews_clean.csv — Saved as the output of the cleaning process and used for further analysis.
+**1. Data Cleaning & ETL:</mark> (saved as Notebook: 01_data_cleaning.ipynb, Cleaned Dataset: amazon_reviews_clean.csv)**  
 
-Handled missing values
 
-removed fully empty columns
+  Handled missing values
 
-Converting date fields into appropriate datetime formats
+  Removed fully empty columns
 
-Cleaning and converting helpful review counts into numeric values
+  Converting date fields into appropriate datetime formats
 
-checked for duplicates
+  Cleaning and converting helpful review counts into numeric values
+
+  Checked for duplicates
+
  
-Exploratory Data Analysis (EDA): 📁 Notebook: 02_eda.ipynb
+**2. Exploratory Data Analysis (EDA):  (savea as Notebook: 02_eda.ipynb)**
 
-Analyzed rating distribution
 
-brand and product performance 
+ Analyzed rating distribution
 
-category distribution
+ Brand and product performance 
 
-verified vs. non verified purchase ratings
+ Category distribution
 
-review content and length
+ Review content and length
+
    
-Data Visualization: 📁 Saved visualizations as PNG files
+**3. Data Visualization:(saved visualizations as PNG files)**
 
-Used Matplotlib to create three visualizations highlighting customer rating.
+
+ Used Matplotlib to create three visualizations highlighting customer rating
 
 # 📊 Sample Visuals
 <img width="703" height="559" alt="Screenshot 2026-11-23 200855" src="https://github.com/user-attachments/assets/de5fa30b-d105-44d4-b4e9-ab23889fc25a" />
@@ -69,7 +72,7 @@ Used Matplotlib to create three visualizations highlighting customer rating.
 - Brand Performance: Schmidt's Deodorant had the highest review volume (20 reviews) and the lowest average brand rating (3.60).
 - Positive Brand Feedback: SheaMoisture received an average rating of 4.67 across 15 reviews.
 - Product Performance: Products B071YYMZ19 and B07WDL82Z4 each had 10 reviews, with average ratings of 3.50 and 3.70 respectively.
-- Purchase Verification: Verified purchases had an average rating of 4.26, compared with 3.25 for non-verified purchases. The non-verified group contained only four reviews, so this comparison should be interpreted cautiously.
+- Purchase Verification: Verified purchases had an average rating of 4.26, compared with 3.25 for non-verified purchases. The non verified group contained only four reviews, so this comparison should be interpreted cautiously.
 
 ## 📈 Business Recommendations
 Based on the exploratory findings:
