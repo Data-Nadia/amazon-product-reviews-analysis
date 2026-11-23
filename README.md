@@ -36,7 +36,7 @@ Matplotlib for Data visualization
 
 # 📊 Sample Visuals
 <img width="703" height="559" alt="Screenshot 2026-11-23 200855" src="https://github.com/user-attachments/assets/de5fa30b-d105-44d4-b4e9-ab23889fc25a" />
-<img width="867" height="564" alt="Screenshot 2026-11-23 201230" src="https://github.com/user-attachments/assets/aec678b3-0e68-4119-a668-c821abcdab1d" />
+<img width="703" height="559" alt="Screenshot 2026-11-23 201230" src="https://github.com/user-attachments/assets/aec678b3-0e68-4119-a668-c821abcdab1d" />
 
 ## 💡 Key Findings & Business Insights
 - Customer Satisfaction: The average review rating was 4.18 out of 5. Approximately 78% of reviews received 4 or 5 stars.
