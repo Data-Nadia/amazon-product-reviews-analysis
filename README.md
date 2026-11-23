@@ -30,13 +30,17 @@ Matplotlib for Data visualization
 Data Extraction: Imported the raw Amazon reviews dataset using Pandas and inspected its structure, columns, data types, and missing values.
 
 Data Cleaning & ETL: Handled missing values, removed fully empty columns, converted date fields, cleaned and converted helpful review counts to numeric values, checked for duplicates, and exported the cleaned dataset.
+
 saved as  01_data_cleaning.ipynb
+
 Cleaned Dataset: amazon_reviews_clean.csv — Saved as the output of the cleaning process and used for further analysis.
  
 Exploratory Data Analysis (EDA): Analyzed rating distribution, brand and product performance, category distribution, verified vs. non verified purchase ratings, and review content and length.
+
 Saved as 02_eda.ipynb 
    
 Data Visualization: Used Matplotlib to create three visualizations highlighting customer rating.
+
 Output: Saved the charts as PNG files for easy viewing in this report.
 
 # 📊 Sample Visuals
