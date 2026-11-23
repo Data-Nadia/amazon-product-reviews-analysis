@@ -14,7 +14,7 @@ The main objective is to analyze customer feedback and answer key business quest
 - How are customer reviews distributed across product categories?
 - Which products may require further investigation based on their ratings?
 - Do verified and non verified purchases show differences in average ratings?
-- 
+
 ## 📂 Dataset
 
 - Source: [Amazon Product Reviews Dataset — Kaggle](https://www.kaggle.com/datasets/promptcloud/amazon-product-reviews-dataset)
@@ -32,7 +32,10 @@ Matplotlib for Data visualization
 
 🔍 Exploratory Data Analysis (EDA): Analyzed rating distribution, brand and product performance, category distribution, verified vs. non verified purchase ratings, and review content and length.
 
-📊 Data Visualization: Used Matplotlib to create three visualizations highlighting customer rating distribution, average ratings by brand, and review counts by product category.
+📊 Data Visualization: Used Matplotlib to create three visualizations highlighting customer rating distribution, average ratings by brand, and review counts by product category.Saved plots as .png for quick preview in this report.
+
+# 📊 Sample Visuals
+
 
 ## 💡 Key Findings & Business Insights
 - Customer Satisfaction: The average review rating was 4.18 out of 5. Approximately 78% of reviews received 4 or 5 stars.
